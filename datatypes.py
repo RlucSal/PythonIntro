@@ -23,13 +23,15 @@ my_favorite_cars = [
 "Model"  : " Toyota",
 "Year":  2020,
 "Color":  "Red",
-"I_buy_it":  True
+"I_buy_it":  True,
+"Is_electric": False
 },
 {
 "Model" : "Honda",
 "Year":  2021,
 "Color":  "Blue",
-"I_buy_it":  False 
+"I_buy_it":  False ,
+"Is_electric": True
 }
 ]
 
