@@ -35,6 +35,26 @@ my_favorite_cars = [
 }
 ]
 
+if my_favorite_cars == []:
+    print("The list is empty")
+    print("Please add some cars")
+else:
+    print(f"My favorite cars are: {my_favorite_cars[0]['Model']}.")
+    print(f"Color: {my_favorite_cars[1]['Color']}, Year: {my_favorite_cars[1]['Year']}")
+    print(f"Hola que tal me coche favorito es {my_favorite_cars[0]['Model']} y el color que mas me gusta es {my_favorite_cars[0]['Color']}.")
+    print(my_favorite_cars)
+    print(f"my favorite car is: {my_favorite_cars[1]["Year"]}")
+
+    
+
+
+
+
+
+
+
+
+
 
 
 
